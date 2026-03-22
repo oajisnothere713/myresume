@@ -84,7 +84,7 @@ B.Tech in Computer Science Engineering
 
 ## 🎯 Core Competencies
 
-`Full Stack Development` `System Design` `API Security` `Blockchain Integration` `Cybersecurity` `Digital Forensics` `Performance Optimization` `Microservices Architecture`
+`Full Stack Development` ` System Design ` `API Security` `Blockchain Integration` `Cybersecurity` `Digital Forensics` `Performance Optimization` `Microservices Architecture`
 
 ---
 
