@@ -1,93 +1,142 @@
 <h1 align="center">Hey, I'm Oaj Borwankar 👋</h1>
 
+<h3 align="center">
+Full Stack Engineer • Cybersecurity Enthusiast • AI & Data Science Explorer
+</h3>
+
 <p align="center">
-  <b>Full Stack Engineer · Cybersecurity Enthusiast · Blockchain Explorer</b><br/>
-  <sub>Building secure, scalable software — one microservice at a time.</sub>
+Building secure, scalable, and intelligent software systems.
 </p>
 
 <p align="center">
-  <a href="mailto:borwankaroaj@gmail.com">📧 borwankaroaj@gmail.com</a> ·
-  <a href="https://linkedin.com/in/oaj-borwankar">🔗 LinkedIn</a> ·
-  <a href="https://github.com/oajisnothere713">🐙 GitHub</a> ·
-  📞 868-997-3996
+  <a href="mailto:borwankaroaj@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/oaj-borwankar">🔗 LinkedIn</a> •
+  <a href="https://github.com/oajisnothere713">💻 GitHub</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a passionate software engineer specializing in **full-stack MERN development**, **Golang microservices**, and **cybersecurity-focused application design**. I love building secure, high-performance systems and am particularly drawn to the intersection of blockchain, deep learning, and modern DevOps.
+I'm a passionate software engineer specializing in **full-stack development, AI-powered applications, data analytics, and cybersecurity-focused systems**. I enjoy building scalable platforms that combine intelligent automation, secure architectures, and real-world problem solving.
 
-Currently pursuing my **B.Tech in CSE (Cyber Security & Digital Forensics)** at VIT Bhopal University.
+Currently pursuing my **B.Tech in Computer Science Engineering (Cyber Security & Digital Forensics)** at **VIT Bhopal University**. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Languages** | JavaScript (ES6+), TypeScript, Python, Java, Golang, SQL, C++ |
-| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST APIs, Microservices, JWT, RBAC |
-| **Databases** | MongoDB, PostgreSQL |
-| **Deep Learning** | TensorFlow, PyTorch, NumPy, Pandas, OpenCV |
-| **Tools & DevOps** | Git, GitHub, Docker, Postman, VS Code |
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### ⚡ Full Stack & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+
+---
+
+### 🤖 AI / ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+---
+
+### 🛢️ Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
+
+---
+
+## 📌 Featured Projects
+
+### 🌿 Smart Environmental Monitoring System
+AI-powered indoor health monitoring platform integrating ESP32 sensors with predictive analytics and Gemini AI recommendations.
+
+**Tech Used:** Python, FastAPI, React, TypeScript, ESP32
+
+---
+
+### 🎬 Netflix Movies Data Analysis using EDA
+Performed exploratory data analysis on Netflix datasets to identify trends in movie duration, genres, and release patterns using visualization and statistical analysis.
+
+**Tech Used:** Python, Pandas, NumPy, Matplotlib
+
+---
+
+### 🔐 Graphical Password Authentication System
+Built a secure image-based authentication platform with AES-256 encrypted credential handling and behavioral analysis.
+
+**Tech Used:** React, Node.js, MongoDB, Python
 
 ---
 
 ## 💼 Experience
 
-### Full Stack Engineer — [Abio Labs](https://abiolabs.com) *(Nov 2025 – Jan 2026)*
-*Lucknow, India*
+### Full Stack Engineer — Abio Labs
+📍 Lucknow, India
 
-- Designed and developed **5+ full-stack web applications** for laboratory workflow automation using **Next.js** and **React**, cutting manual data entry time by ~30%.
-- Built and secured **RESTful APIs** managing experimental data, user access control, and internal research tools across **3+ concurrent research teams**.
-- Collaborated with researchers to translate complex lab requirements into scalable software, reducing feature delivery time by **20%**.
-
----
-
-## 🚀 Projects
-
-### 🛒 Secure E-Commerce Platform
-`React` `Node.js` `Express` `MongoDB` `Golang` `Redis` `Blockchain` | *Nov 2025 – Jan 2026*
-
-- Architected a secure, scalable MERN platform supporting **1,000+ concurrent users** with JWT authentication and granular RBAC.
-- Engineered **Golang microservices** for high-throughput operations; integrated **Redis caching** to reduce average API response time by **45%** and optimized MongoDB indexes for **sub-100ms queries**.
-- Implemented **blockchain-based order hashing** (SHA-256) ensuring tamper-proof transaction integrity across **100% of orders**.
-
----
-
-### 🔐 Graphical Password Authentication System
-`React` `Node.js` `Express` `MongoDB` `Python` | *Aug 2024 – Dec 2024*
-
-- Designed an image-based password authentication system, eliminating text-based credential exposure and reducing vulnerability to brute-force and shoulder-surfing attacks.
-- Achieved **zero plaintext credential storage** using **AES-256 encryption** and server-side validation via the MERN stack.
-- Used **NumPy & Pandas** for image processing pipelines and user behavior analysis, improving authentication accuracy by **15%**.
+- Developed AI-powered laboratory workflow systems using React, Next.js, Node.js, and FastAPI
+- Integrated intelligent chatbot capabilities for workflow automation and researcher assistance
+- Built scalable REST APIs, authentication systems, and RBAC-based architectures
+- Collaborated with researchers to convert scientific workflows into scalable web applications
 
 ---
 
 ## 🎓 Education
 
-**VIT Bhopal University** — Bhopal, Madhya Pradesh  
+**VIT Bhopal University**  
 B.Tech in Computer Science Engineering  
-*Specialization: Cyber Security & Digital Forensics*  
-📅 Aug 2023 – Sept 2027
+Specialization: Cyber Security & Digital Forensics :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 📜 Certifications
 
-- 🔗 **Blockchain Certification** — NPTEL *(April 2025)*
-- 🛡️ **Certified Ethical Hacker (CEHv12)** — EC-Council *(January 2025)*
+- 🛡️ Certified Ethical Hacker (CEHv12) — EC-Council
+- ⛓️ Blockchain Certification — NPTEL
 
 ---
 
-## 🎯 Core Competencies
-
-`Full Stack Development` ` System Design ` `API Security` `Blockchain Integration` `Cybersecurity` `Digital Forensics` `Performance Optimization` `Microservices Architecture`
-
----
+## 📈 GitHub Stats
 
 <p align="center">
-  <i>"Building at the intersection of security, scalability, and innovation."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=oajisnothere713&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oajisnothere713&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:borwankaroaj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/oaj-borwankar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/oajisnothere713">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
