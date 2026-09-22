@@ -1,142 +1,178 @@
-<h1 align="center">Hey, I'm Oaj Borwankar 👋</h1>
+# 👋 Hi, I'm Oaj Borwankar
 
-<h3 align="center">
-Full Stack Engineer • Cybersecurity Enthusiast • AI & Data Science Explorer
-</h3>
+### Computer Science Engineering Student | Backend Developer | AI & Cybersecurity Enthusiast
 
-<p align="center">
-Building secure, scalable, and intelligent software systems.
-</p>
+I'm a Computer Science Engineering student specializing in **Cyber Security & Digital Forensics** at **Vellore Institute of Technology**.
 
-<p align="center">
-  <a href="mailto:borwankaroaj@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/oaj-borwankar">🔗 LinkedIn</a> •
-  <a href="https://github.com/oajisnothere713">💻 GitHub</a>
-</p>
+I enjoy building scalable backend systems, AI-powered applications, healthcare solutions, and IoT-based systems.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a passionate software engineer specializing in **full-stack development, AI-powered applications, data analytics, and cybersecurity-focused systems**. I enjoy building scalable platforms that combine intelligent automation, secure architectures, and real-world problem solving.
-
-Currently pursuing my **B.Tech in Computer Science Engineering (Cyber Security & Digital Forensics)** at **VIT Bhopal University**. :contentReference[oaicite:0]{index=0}
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+- 🎓 B.Tech in Computer Science Engineering (Cyber Security & Digital Forensics)
+- 🏫 Vellore Institute of Technology
+- 📊 CGPA: **8.3**
+- 💻 Interested in **Backend Development, AI, Cybersecurity & IoT**
+- 🔧 Experienced with **Node.js, Express.js, REST APIs, PostgreSQL and MongoDB**
+- 🤖 Interested in integrating AI into real-world applications
+- 🌱 Currently exploring scalable backend architectures and intelligent automation
 
 ---
 
-### ⚡ Full Stack & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+## 🛠️ Technical Skills
 
----
+### Languages
+- Java
+- Python
+- Golang
 
-### 🤖 AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
 
----
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
 
-### 🛢️ Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
+### Databases
+- MongoDB
+- PostgreSQL
+- SQLite
 
----
-
-## 📌 Featured Projects
-
-### 🌿 Smart Environmental Monitoring System
-AI-powered indoor health monitoring platform integrating ESP32 sensors with predictive analytics and Gemini AI recommendations.
-
-**Tech Used:** Python, FastAPI, React, TypeScript, ESP32
-
----
-
-### 🎬 Netflix Movies Data Analysis using EDA
-Performed exploratory data analysis on Netflix datasets to identify trends in movie duration, genres, and release patterns using visualization and statistical analysis.
-
-**Tech Used:** Python, Pandas, NumPy, Matplotlib
-
----
-
-### 🔐 Graphical Password Authentication System
-Built a secure image-based authentication platform with AES-256 encrypted credential handling and behavioral analysis.
-
-**Tech Used:** React, Node.js, MongoDB, Python
+### Other Technologies
+- ESP32
+- Twilio APIs
+- Slack Webhooks
+- Gemini AI
+- SAP ERP
+- Prompt Engineering
 
 ---
 
 ## 💼 Experience
 
-### Full Stack Engineer — Abio Labs
-📍 Lucknow, India
+### IT Intern — Thread and Core Systems
+**May 2026 – Aug 2026 | Pune, India**
 
-- Developed AI-powered laboratory workflow systems using React, Next.js, Node.js, and FastAPI
-- Integrated intelligent chatbot capabilities for workflow automation and researcher assistance
-- Built scalable REST APIs, authentication systems, and RBAC-based architectures
-- Collaborated with researchers to convert scientific workflows into scalable web applications
+- Developed and maintained a healthcare portal using **React, Node.js and PostgreSQL**.
+- Implemented functionality for patient management, appointment scheduling, healthcare workflows and stock management.
+- Developed SAP ERP-integrated solutions for mining logistics, improving shipment tracking and inventory visibility.
+- Designed and implemented a veterinary healthcare application supporting:
+  - Pet registration
+  - Medical records
+  - Appointment booking
+  - Treatment tracking
+
+---
+
+# 📌 Featured Projects
+
+## 🤖 InsurRenew Pro — AI Insurance Renewal Agent
+
+**Tech Stack:** REST APIs · Twilio SMS · Slack Webhooks · Inya.ai
+
+- Configured and customized a bilingual **English/Hindi AI insurance renewal agent**.
+- Implemented a Knowledge Base for contextual insurance policy information.
+- Designed multi-turn conversational workflows for customer interactions.
+- Implemented prompt-engineering workflows for:
+  - Insurance renewals
+  - Objection handling
+  - Intent detection
+  - Sentiment-based responses
+  - Callback handling
+  - Eligibility-driven policy upselling
+- Integrated **Twilio SMS APIs** for renewal and payment links.
+- Integrated **Slack Webhooks** for real-time human-agent escalation.
+- Implemented a modular **Prompt → Actions → Integrations** workflow.
+
+---
+
+## 🐾 Veterinary Clinic Management System
+
+**Tech Stack:** Node.js · Express.js · MongoDB
+
+- Built an end-to-end veterinary clinic management workflow.
+- Implemented appointment booking and live consultation management.
+- Integrated speech-to-text for doctor consultations.
+- Used AI to generate structured **SOAP notes and prescriptions**.
+- Implemented automated email notifications with follow-up booking links.
+- Designed a **multi-tenant architecture** with role-based views:
+  - Superadmin
+  - Admin
+  - Doctor
+- Isolated clinic data to prevent cross-clinic access.
+- Built a vaccination tracking system that:
+  - Calculates vaccination due dates
+  - Detects overdue vaccines
+  - Sends automated email reminders
+
+---
+
+## 🌱 Smart Environmental Monitoring System
+
+**Tech Stack:** Python · React · ESP32 · FastAPI · NumPy · Pandas
+
+- Developed an AI-powered indoor health monitoring system using **ESP32 and multiple environmental sensors**.
+- Monitored:
+  - PM2.5
+  - PM10
+  - VOCs
+  - CO₂
+  - Temperature
+  - Humidity
+  - Light
+  - Noise
+- Built Python-based data processing and sensor calibration pipelines.
+- Implemented **AQI scoring** and sensor calibration algorithms.
+- Developed a FastAPI backend for:
+  - Real-time sensor ingestion
+  - Historical trend analysis
+  - Intelligent alerts
+- Implemented cooldown-based notification handling.
+- Integrated predictive analytics and **Gemini AI-powered health recommendations**.
+- Enabled anomaly detection using historical environmental data.
 
 ---
 
 ## 🎓 Education
 
-**VIT Bhopal University**  
-B.Tech in Computer Science Engineering  
-Specialization: Cyber Security & Digital Forensics :contentReference[oaicite:1]{index=1}
+**Vellore Institute of Technology**
+
+**B.Tech — Computer Science Engineering  
+(Cyber Security & Digital Forensics)**
+
+📅 August 2023 – September 2027
+
+**CGPA: 8.3**
 
 ---
 
 ## 📜 Certifications
 
-- 🛡️ Certified Ethical Hacker (CEHv12) — EC-Council
-- ⛓️ Blockchain Certification — NPTEL
+- **Blockchain Certification — NPTEL**
+  - April 2025
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oajisnothere713&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oajisnothere713&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+📧 **Email:** borwankaroaj@gmail.com
+
+💼 **LinkedIn:** [oaj-borwankar](https://www.linkedin.com/in/oaj-borwankar/)
+
+🐙 **GitHub:** [oajisnothere713](https://github.com/oajisnothere713)
 
 ---
 
-## 🌐 Let's Connect
+## 💡 Interests
 
-<p align="center">
-  <a href="mailto:borwankaroaj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/oaj-borwankar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="https://github.com/oajisnothere713">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+`Backend Development` · `Artificial Intelligence` · `Cybersecurity` · `IoT` · `REST APIs` · `Cloud & Distributed Systems`
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
